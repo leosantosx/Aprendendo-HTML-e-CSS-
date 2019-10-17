@@ -318,14 +318,15 @@ h1 {
 
 .message{
     
-background-color:#eee;
-     padding: 30px;
+background-color:#fff;
+     padding: 30px 40px;
      margin: auto;
      color: #7992a3;
-     font-size: 2rem;
+     font-size: 2.5rem;
+     font-family: sans-serif;
      width: 60%;
      border-radius: 5px;
-     border-width: 6px;
+     border-width: 8px;
      border-style: solid;
      border-image: 
     linear-gradient(
