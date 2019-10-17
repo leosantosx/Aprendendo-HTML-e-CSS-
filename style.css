@@ -12,7 +12,7 @@ span {
 
 .container {
 	width: 800px;
-	height: 420px;
+	height: 300px;
 	padding-top: 100px;
 	margin: 0 auto;
 	position: relative;
@@ -315,3 +315,20 @@ h1 {
 	color: white;
 	font-size: 3.5em;
 }
+
+.message{
+    
+background-color:#eee;
+     padding: 30px;
+     margin: auto;
+     color: #7992a3;
+     font-size: 2rem;
+     width: 60%;
+     border-radius: 5px;
+     border-width: 6px;
+     border-style: solid;
+     border-image: 
+    linear-gradient(
+      to bottom, #92fe9d, #00c9ff ) 1 100%;
+
+} 
